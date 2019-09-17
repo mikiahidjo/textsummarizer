@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41420b18-4059-469c-9ec6-243148dee85c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/TextSummarizer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30001t/C1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30001t/C10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30001t/C2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30001t/C3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30001t/C4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30001t/C5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30001t/C6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30001t/C7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30001t/C8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30001t/C9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30002t/C1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30002t/C10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30002t/C2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30002t/C3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30002t/C4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30002t/C5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30002t/C6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30002t/C7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30002t/C8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30002t/C9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30003t/C1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30003t/C10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30003t/C2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30003t/C3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30003t/C4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30003t/C5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30003t/C6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30003t/C7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30003t/C8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30003t/C9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30005t/C1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30005t/C10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30005t/C2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30005t/C3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30005t/C4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30005t/C5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30005t/C6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30005t/C7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30005t/C8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30005t/C9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30006t/C1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30006t/C10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30006t/C2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30006t/C3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30006t/C4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30006t/C5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30006t/C6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30006t/C7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30006t/C8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30006t/C9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30007t/C1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30007t/C10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30007t/C2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30007t/C3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30007t/C4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30007t/C5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30007t/C6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30007t/C7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30007t/C8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30007t/C9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30008t/C1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30008t/C10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30008t/C2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30008t/C3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30008t/C4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30008t/C5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30008t/C6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30008t/C7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30008t/C8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30008t/C9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30010t/C1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30010t/C10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30010t/C2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30010t/C3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30010t/C4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30010t/C5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30010t/C6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30010t/C7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30010t/C8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30010t/C9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30011t/C1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30011t/C10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30011t/C2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30011t/C3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30011t/C4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30011t/C5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30011t/C6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30011t/C7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30011t/C8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30011t/C9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30015t/C1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30015t/C10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30015t/C2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30015t/C3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30015t/C4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30015t/C5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30015t/C6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30015t/C7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30015t/C8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30015t/C9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30017t/C1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30017t/C10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30017t/C2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30017t/C3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30017t/C4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30017t/C5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30017t/C6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30017t/C7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30017t/C8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30017t/C9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30020t/C1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30020t/C10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30020t/C2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30020t/C3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30020t/C4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30020t/C5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30020t/C6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30020t/C7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30020t/C8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30020t/C9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30022t/C1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30022t/C10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30022t/C2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30022t/C3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30022t/C4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30022t/C5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30022t/C6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30022t/C7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30022t/C8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30022t/C9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30024t/C1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30024t/C10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30024t/C2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30024t/C3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30024t/C4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30024t/C5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30024t/C6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30024t/C7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30024t/C8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30024t/C9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30026t/C1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30026t/C10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30026t/C2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30026t/C3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30026t/C4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30026t/C5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30026t/C6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30026t/C7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30026t/C8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30026t/C9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30027t/C1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30027t/C10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30027t/C2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30027t/C3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30027t/C4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30027t/C5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30027t/C6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30027t/C7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30027t/C8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30027t/C9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30028t/C1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30028t/C10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30028t/C2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30028t/C3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30028t/C4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30028t/C5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30028t/C6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30028t/C7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30028t/C8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30028t/C9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30029t/C1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30029t/C10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30029t/C2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30029t/C3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30029t/C4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30029t/C5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30029t/C6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30029t/C7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30029t/C8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30029t/C9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30031t/C1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30031t/C10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30031t/C2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30031t/C3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30031t/C4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30031t/C5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30031t/C6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30031t/C7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30031t/C8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30031t/C9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30033t/C1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30033t/C10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30033t/C2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30033t/C3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30033t/C4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30033t/C5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30033t/C6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30033t/C7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30033t/C8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30033t/C9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30034t/C1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30034t/C10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30034t/C2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30034t/C3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30034t/C4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30034t/C5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30034t/C6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30034t/C7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30034t/C8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30034t/C9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30036t/C1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30036t/C10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30036t/C2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30036t/C3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30036t/C4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30036t/C5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30036t/C6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30036t/C7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30036t/C8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30036t/C9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30037t/C1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30037t/C10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30037t/C2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30037t/C3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30037t/C4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30037t/C5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30037t/C6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30037t/C7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30037t/C8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30037t/C9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30038t/C1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30038t/C10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30038t/C2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30038t/C3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30038t/C4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30038t/C5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30038t/C6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30038t/C7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30038t/C8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30038t/C9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30040t/C1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30040t/C10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30040t/C2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30040t/C3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30040t/C4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30040t/C5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30040t/C6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30040t/C7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30040t/C8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30040t/C9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30042t/C1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30042t/C10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30042t/C2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30042t/C3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30042t/C4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30042t/C5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30042t/C6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30042t/C7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30042t/C8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30042t/C9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30044t/C1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30044t/C10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30044t/C2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30044t/C3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30044t/C4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30044t/C5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30044t/C6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30044t/C7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30044t/C8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30044t/C9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30045t/C1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30045t/C10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30045t/C2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30045t/C3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30045t/C4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30045t/C5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30045t/C6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30045t/C7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30045t/C8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30045t/C9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30046t/C1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30046t/C10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30046t/C2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30046t/C3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30046t/C4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30046t/C5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30046t/C6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30046t/C7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30046t/C8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30046t/C9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30047t/C1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30047t/C10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30047t/C2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30047t/C3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30047t/C4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30047t/C5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30047t/C6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30047t/C7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30047t/C8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Cluster_of_Docs/d30047t/C9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30001t/D30001.M.100.T.B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30001t/D30001.M.100.T.C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30001t/D30001.M.100.T.D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30002t/D30002.M.100.T.A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30002t/D30002.M.100.T.B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30002t/D30002.M.100.T.C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30002t/D30002.M.100.T.E" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30003t/D30003.M.100.T.A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30003t/D30003.M.100.T.B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30003t/D30003.M.100.T.C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30003t/D30003.M.100.T.F" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30005t/D30005.M.100.T.A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30005t/D30005.M.100.T.B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30005t/D30005.M.100.T.C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30005t/D30005.M.100.T.G" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30006t/D30006.M.100.T.A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30006t/D30006.M.100.T.B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30006t/D30006.M.100.T.C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30006t/D30006.M.100.T.H" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30007t/D30007.M.100.T.A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30007t/D30007.M.100.T.B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30007t/D30007.M.100.T.D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30007t/D30007.M.100.T.E" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30008t/D30008.M.100.T.A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30008t/D30008.M.100.T.B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30008t/D30008.M.100.T.D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30008t/D30008.M.100.T.G" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30010t/D30010.M.100.T.A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30010t/D30010.M.100.T.B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30010t/D30010.M.100.T.D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30010t/D30010.M.100.T.H" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30011t/D30011.M.100.T.A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30011t/D30011.M.100.T.B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30011t/D30011.M.100.T.E" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30011t/D30011.M.100.T.F" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30015t/D30015.M.100.T.A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30015t/D30015.M.100.T.B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30015t/D30015.M.100.T.E" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30015t/D30015.M.100.T.H" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30017t/D30017.M.100.T.A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30017t/D30017.M.100.T.B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30017t/D30017.M.100.T.F" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30017t/D30017.M.100.T.G" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30020t/D30020.M.100.T.A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30020t/D30020.M.100.T.C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30020t/D30020.M.100.T.D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30020t/D30020.M.100.T.E" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30022t/D30022.M.100.T.A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30022t/D30022.M.100.T.C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30022t/D30022.M.100.T.D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30022t/D30022.M.100.T.F" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30024t/D30024.M.100.T.A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30024t/D30024.M.100.T.C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30024t/D30024.M.100.T.D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30024t/D30024.M.100.T.G" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30026t/D30026.M.100.T.A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30026t/D30026.M.100.T.C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30026t/D30026.M.100.T.D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30026t/D30026.M.100.T.H" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30027t/D30027.M.100.T.A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30027t/D30027.M.100.T.C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30027t/D30027.M.100.T.E" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30027t/D30027.M.100.T.G" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30028t/D30028.M.100.T.A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30028t/D30028.M.100.T.C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30028t/D30028.M.100.T.F" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30028t/D30028.M.100.T.G" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30029t/D30029.M.100.T.A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30029t/D30029.M.100.T.C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30029t/D30029.M.100.T.F" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30029t/D30029.M.100.T.H" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30031t/D30031.M.100.T.A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30031t/D30031.M.100.T.D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30031t/D30031.M.100.T.E" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30031t/D30031.M.100.T.F" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30033t/D30033.M.100.T.A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30033t/D30033.M.100.T.D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30033t/D30033.M.100.T.E" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30033t/D30033.M.100.T.G" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30034t/D30034.M.100.T.A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30034t/D30034.M.100.T.D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30034t/D30034.M.100.T.F" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30034t/D30034.M.100.T.G" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30036t/D30036.M.100.T.A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30036t/D30036.M.100.T.D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30036t/D30036.M.100.T.F" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30036t/D30036.M.100.T.H" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30037t/D30037.M.100.T.A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30037t/D30037.M.100.T.D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30037t/D30037.M.100.T.G" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30037t/D30037.M.100.T.H" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30038t/D30038.M.100.T.A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30038t/D30038.M.100.T.E" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30038t/D30038.M.100.T.F" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30038t/D30038.M.100.T.H" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30040t/D30040.M.100.T.A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30040t/D30040.M.100.T.E" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30040t/D30040.M.100.T.G" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30040t/D30040.M.100.T.H" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30042t/D30042.M.100.T.B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30042t/D30042.M.100.T.C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30042t/D30042.M.100.T.D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30042t/D30042.M.100.T.F" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30044t/D30044.M.100.T.B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30044t/D30044.M.100.T.C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30044t/D30044.M.100.T.D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30044t/D30044.M.100.T.G" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30045t/D30045.M.100.T.B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30045t/D30045.M.100.T.C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30045t/D30045.M.100.T.E" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30045t/D30045.M.100.T.F" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30046t/D30046.M.100.T.B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30046t/D30046.M.100.T.C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30046t/D30046.M.100.T.E" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30046t/D30046.M.100.T.H" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30047t/D30047.M.100.T.B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30047t/D30047.M.100.T.C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30047t/D30047.M.100.T.F" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30047t/D30047.M.100.T.H" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30048t/D30048.M.100.T.B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30048t/D30048.M.100.T.C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30048t/D30048.M.100.T.G" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30048t/D30048.M.100.T.H" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30049t/D30049.M.100.T.B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30049t/D30049.M.100.T.D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30049t/D30049.M.100.T.E" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30049t/D30049.M.100.T.G" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30050t/D30050.M.100.T.B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30050t/D30050.M.100.T.D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30050t/D30050.M.100.T.E" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30050t/D30050.M.100.T.H" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30051t/D30051.M.100.T.B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30051t/D30051.M.100.T.D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30051t/D30051.M.100.T.F" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30051t/D30051.M.100.T.H" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30053t/D30053.M.100.T.B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30053t/D30053.M.100.T.E" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30053t/D30053.M.100.T.F" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30053t/D30053.M.100.T.G" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30055t/D30055.M.100.T.B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30055t/D30055.M.100.T.E" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30055t/D30055.M.100.T.F" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30055t/D30055.M.100.T.H" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30056t/D30056.M.100.T.B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30056t/D30056.M.100.T.E" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30056t/D30056.M.100.T.G" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30056t/D30056.M.100.T.H" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30059t/D30059.M.100.T.B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30059t/D30059.M.100.T.F" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30059t/D30059.M.100.T.G" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d30059t/D30059.M.100.T.H" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31001t/D31001.M.100.T.C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31001t/D31001.M.100.T.D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31001t/D31001.M.100.T.E" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31001t/D31001.M.100.T.G" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31008t/D31008.M.100.T.C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31008t/D31008.M.100.T.D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31008t/D31008.M.100.T.E" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31008t/D31008.M.100.T.H" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31009t/D31009.M.100.T.B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31009t/D31009.M.100.T.C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31009t/D31009.M.100.T.F" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31009t/D31009.M.100.T.G" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31013t/D31013.M.100.T.C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31013t/D31013.M.100.T.D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31013t/D31013.M.100.T.G" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31013t/D31013.M.100.T.H" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31022t/D31022.M.100.T.C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31022t/D31022.M.100.T.E" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31022t/D31022.M.100.T.F" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31022t/D31022.M.100.T.G" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31026t/D31026.M.100.T.C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31026t/D31026.M.100.T.E" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31026t/D31026.M.100.T.F" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31026t/D31026.M.100.T.H" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31031t/D31031.M.100.T.C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31031t/D31031.M.100.T.F" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31031t/D31031.M.100.T.G" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31031t/D31031.M.100.T.H" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31032t/D31032.M.100.T.D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31032t/D31032.M.100.T.E" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31032t/D31032.M.100.T.F" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31032t/D31032.M.100.T.G" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31033t/D31033.M.100.T.D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31033t/D31033.M.100.T.E" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31033t/D31033.M.100.T.F" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31033t/D31033.M.100.T.H" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31038t/D31038.M.100.T.D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31038t/D31038.M.100.T.E" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31038t/D31038.M.100.T.G" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31038t/D31038.M.100.T.H" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31043t/D31043.M.100.T.D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31043t/D31043.M.100.T.F" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31043t/D31043.M.100.T.G" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31043t/D31043.M.100.T.H" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31050t/D31050.M.100.T.E" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31050t/D31050.M.100.T.F" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31050t/D31050.M.100.T.G" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DUC-2004/Test_Summaries/d31050t/D31050.M.100.T.H" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/SentencesToCluster.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/Summary_d30017t.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cluto/COPYRIGHT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cluto/manual.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cluto/manual.ps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cluto/paper1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cluto/paper2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/submodular function for document summarization.pdf" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="133" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QjbpJUFmBMUQ0rNQNB5o31Yd8m" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="PyCoverageOptionsProvider">
+    <option name="myUseBundledCoveragePy" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Preprocessing">
+    <configuration name="Preprocessing" type="PythonConfigurationType" factoryName="Python">
+      <module name="TextSummarizer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Preprocessing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="TextSummarizer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.5" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_profiler" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TextSummarizer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/helpers/profiler" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/helpers/profiler/run_profiler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Preprocessing" />
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.run_profiler" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_profiler" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41420b18-4059-469c-9ec6-243148dee85c" name="Default Changelist" comment="" />
+      <created>1568287135145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568287135145</updated>
+      <workItem from="1568287150018" duration="4507000" />
+      <workItem from="1568709385141" duration="63000" />
+      <workItem from="1568709590163" duration="4932000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TextSummarizer$run_profiler.coverage" NAME="run_profiler Coverage Results" MODIFIED="1568296217421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/helpers/profiler" />
+    <SUITE FILE_PATH="coverage/TextSummarizer$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1568713037894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/TextSummarizer$Preprocessing.coverage" NAME="Preprocessing Coverage Results" MODIFIED="1568713054382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
